@@ -1,6 +1,6 @@
 ﻿# Consultify
 
-Frontend:/n
+Frontend:  
      cd client/n
      npm start/n
 Backend:/n
