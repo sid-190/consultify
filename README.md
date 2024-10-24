@@ -1,7 +1,7 @@
 ﻿# Consultify
 
-Frontend:
-     cd client
-     npm start
-Backend:
-    node server/server.js
+Frontend:/n
+     cd client/n
+     npm start/n
+Backend:/n
+    node server/server.js/n
